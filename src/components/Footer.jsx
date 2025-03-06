@@ -18,7 +18,7 @@ const Footer = () => {
 
       <div className='grid grid-cols-4 bg-gray-500'>
         <div>
-            <img src="/public/primexopLogoWhite.cf13571e.svg" alt="" />
+            <img src="/primexopLogoWhite.cf13571e.svg" alt="" />
         </div>
       </div>
     </div>
