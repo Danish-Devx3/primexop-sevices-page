@@ -11,7 +11,7 @@ const Services = () => {
       <div className=' grid  grid-cols-4 gap-3 mx-auto w-[80vw] mt-12'>
         <div className=' shadow-gray-200 shadow-lg'>
         <div className=' p-5  '>
-            <img className='' src="/public/app_dev.a047b1e1.svg" alt="" />
+            <img className='' src="/app_dev.a047b1e1.svg" alt="" />
             <p className='text-2xl pt-12 pb-4 font-bold'>Custom App Development</p>
             <p>
             Creating software applications for mobile devices focusing on user experience, and performance.
@@ -20,7 +20,7 @@ const Services = () => {
         </div>
         <div className=' shadow-gray-200 shadow-lg'>
         <div className=' p-5  '>
-            <img className='' src="/public/app_dev.a047b1e1.svg" alt="" />
+            <img className='' src="/app_dev.a047b1e1.svg" alt="" />
             <p className='text-2xl pt-12 pb-4 font-bold'>Custom App Development</p>
             <p>
             Creating software applications for mobile devices focusing on user experience, and performance.
@@ -29,7 +29,7 @@ const Services = () => {
         </div>
         <div className=' shadow-gray-200 shadow-lg'>
         <div className=' p-5  '>
-            <img className='' src="/public/app_dev.a047b1e1.svg" alt="" />
+            <img className='' src="/app_dev.a047b1e1.svg" alt="" />
             <p className='text-2xl pt-12 pb-4 font-bold'>Custom App Development</p>
             <p>
             Creating software applications for mobile devices focusing on user experience, and performance.
@@ -38,7 +38,7 @@ const Services = () => {
         </div>
         <div className=' shadow-gray-200 shadow-lg'>
         <div className=' p-5  '>
-            <img className='' src="/public/app_dev.a047b1e1.svg" alt="" />
+            <img className='' src="/app_dev.a047b1e1.svg" alt="" />
             <p className='text-2xl pt-12 pb-4 font-bold'>Custom App Development</p>
             <p>
             Creating software applications for mobile devices focusing on user experience, and performance.
@@ -47,7 +47,7 @@ const Services = () => {
         </div>
         <div className=' shadow-gray-200 shadow-lg'>
         <div className=' p-5  '>
-            <img className='' src="/public/app_dev.a047b1e1.svg" alt="" />
+            <img className='' src="/app_dev.a047b1e1.svg" alt="" />
             <p className='text-2xl pt-12 pb-4 font-bold'>Custom App Development</p>
             <p>
             Creating software applications for mobile devices focusing on user experience, and performance.
@@ -56,7 +56,7 @@ const Services = () => {
         </div>
         <div className=' shadow-gray-200 shadow-lg'>
         <div className=' p-5  '>
-            <img className='' src="/public/app_dev.a047b1e1.svg" alt="" />
+            <img className='' src="/app_dev.a047b1e1.svg" alt="" />
             <p className='text-2xl pt-12 pb-4 font-bold'>Custom App Development</p>
             <p>
             Creating software applications for mobile devices focusing on user experience, and performance.

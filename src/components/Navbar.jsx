@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div>
       <div className='py-4 px-4 flex justify-between items-center mx-auto' >
-        <img src="/public/primexopLogoBlue.a6dc87a3.svg" alt="" />
+        <img src="/primexopLogoBlue.a6dc87a3.svg" alt="" />
         <div className='text-xl font-thin flex items-center gap-4 tracking-wider' >
             <p>Home</p>
             <p>Services</p>
@@ -16,7 +16,7 @@ const Navbar = () => {
       </div>
       <div>
         <div className='absolute'>
-            <img className='h-[420px] w-full object-cover' src="/public/hero.webp"  alt="" />
+            <img className='h-[420px] w-full object-cover' src="/hero.webp"  alt="" />
         </div>
         <div className="w-full  py-4 relative flex flex-col gap-2 items-center justify-center  h-[60vh] ">
             <h1 className='text-4xl font-bold' >Services</h1>
