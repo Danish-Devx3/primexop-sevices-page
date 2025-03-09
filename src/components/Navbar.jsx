@@ -15,12 +15,20 @@ const Navbar = () => {
         </div>
       </div>
       <div>
-        <div className='absolute'>
-            <img className='h-[420px] w-full object-cover' src="/hero.webp"  alt="" />
-        </div>
-        <div className="w-full  py-4 relative flex flex-col gap-2 items-center justify-center  h-[60vh] ">
-            <h1 className='text-4xl font-bold' >Services</h1>
-            <p>Home Services</p>
+        <div className='relative h-[450px]'>
+          <div className='absolute '>
+              <img className='h-[100%] w-full object-cover' src="/hero.webp"  alt="" />
+
+          </div>
+          <div className='absolute '>
+            <img src="/left-bannerimg.2f0900ac.png" alt="" />
+           
+          </div>
+          <div className='absolute h-[100%] right-0 bg-linear-to-l from-blue-400 to-transparent'>
+          <img className='' src="/right-bannerimg.ffe2e1f3.png" alt="" />
+          </div>
+
+          
         </div>
       </div>
     </div>
