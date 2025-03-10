@@ -11,12 +11,12 @@ function App() {
   
 
   return (
-   <div>
-    <Header/>
-    <Navbar/>
-    <Services/>
-    <Footer/>
-   </div>
+    <div className="overflow-x-hidden">
+      <Header/>
+      <Navbar/>
+      <Services/>
+      <Footer/>
+    </div>
   )
 }
 
